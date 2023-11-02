@@ -1,9 +1,9 @@
 {
 	"required": true,
-	"package": "com.example.mixin",
+	"package": "zone.bears.chickenphysics.mixin",
 	"compatibilityLevel": "JAVA_17",
 	"mixins": [
-		"ExampleMixin"
+		"ChickenPhysicsMixin"
 	],
 	"injectors": {
 		"defaultRequire": 1
